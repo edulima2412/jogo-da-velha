@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Segue o Link [Projeto](https://edulima2412.github.io/jogo-da-velha/)
+Segue o Link [Projeto](https://edulima2412.github.io/Jogo-da-Velha/)
 
 # Preview Desktop
 
